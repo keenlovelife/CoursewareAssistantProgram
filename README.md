@@ -1,0 +1,2 @@
+# CoursewareAssistantProgram
+给教师讲课提供的辅助程序，提供对穴位、经络的位置和信息在人体上进行直观的展示。
